@@ -1,16 +1,117 @@
-## Hi there 👋
+# Hi there 👋 I'm Shashank H P
 
-<!--
-**ShashankBusinessDataAnalyst/ShashankBusinessDataAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business Intelligence | Data Analytics | AI Applications
 
-Here are some ideas to get you started:
+I am a Business Intelligence professional passionate about building AI-powered analytics solutions that help businesses make better decisions through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on building enterprise-grade AI applications using Python, FastAPI, SQL Server, Azure OpenAI, and Power BI.
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Building an AI-powered Sales Intelligence Copilot
+- 📊 Business Intelligence & Data Analytics
+- 🐍 Python Development
+- ⚡ FastAPI & REST APIs
+- ☁️ Azure OpenAI
+- 📈 Power BI Dashboards
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+- Python
+- SQL
+
+**Frameworks**
+
+- FastAPI
+- Flask
+
+**Databases**
+
+- SQL Server
+- SQLite
+
+**Analytics**
+
+- Power BI
+- Excel
+
+**AI**
+
+- Azure OpenAI
+- Prompt Engineering
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Sales Intelligence Copilot
+
+AI-powered conversational assistant for enterprise sales analytics using Azure OpenAI and SQL Server.
+
+---
+
+### 📊 Power BI Dashboards
+
+Interactive business dashboards for KPI tracking and executive reporting.
+
+---
+
+### 🐍 Python Machine Learning
+
+Hands-on machine learning projects covering data preprocessing, regression, classification, and model evaluation.
+
+---
+
+## 🌱 Currently Learning
+
+- Azure AI
+- LangChain
+- RAG Applications
+- AI Agents
+
+---
+
+## 📫 Connect with Me
+
+LinkedIn
+
+https://www.linkedin.com/in/shashank-hp
+
+GitHub
+
+https://github.com/ShashankBusinessDataAnalyst
+
+```
+
+---
+
+## After you build the Sales Intelligence Copilot
+
+Update the **Featured Projects** section with the repository link and add a demo GIF.
+
+---
+
+### I also recommend adding GitHub badges and stats
+
+These make your profile look much more professional by showing:
+- Programming languages
+- GitHub activity
+- Contribution streak
+- Profile views
+
+They give your profile a polished, recruiter-friendly appearance.
+
+I can create a **modern, premium GitHub profile README** with badges, icons, GitHub stats, and a clean layout that looks similar to those of experienced AI and data engineers.
