@@ -19,39 +19,15 @@ Currently working on building enterprise-grade AI applications using Python, Fas
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,github,vscode,sqlite,postgres" />
+</p>
 
-- Python
-- SQL
-
-**Frameworks**
-
-- FastAPI
-- Flask
-
-**Databases**
-
-- SQL Server
-- SQLite
-
-**Analytics**
-
-- Power BI
-- Excel
-
-**AI**
-
-- Azure OpenAI
-- Prompt Engineering
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Postman
+<p align="center">
+<b>SQL Server • Power BI • Azure OpenAI • Excel • Prompt Engineering</b>
+</p>
 
 ---
 
@@ -94,4 +70,3 @@ GitHub
 
 https://github.com/ShashankBusinessDataAnalyst
 
-```
